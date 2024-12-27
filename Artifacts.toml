@@ -6,7 +6,7 @@ os = "linux"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "22c504016250a237abac4bc62e06274a628b9ef7bc187a3cdc78c0b05365bdbd"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.aarch64-linux-gnu.tar.gz"
 [[Xorg_libXdmcp]]
 arch = "aarch64"
 git-tree-sha1 = "ba340f3e0d22a5c690e31c3d3ed08ddbf1c9bb6e"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "f4118f345af9ab4c6e040b2998e36b3afd0aa1ab48b634fcec80866d8f7adb98"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.aarch64-linux-musl.tar.gz"
 [[Xorg_libXdmcp]]
 arch = "aarch64"
 git-tree-sha1 = "e7e4a9596224481394e0a3a9ba3de3a09d69b385"
@@ -23,7 +23,7 @@ os = "freebsd"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "ce43daa9422ac3f3a186058f79bf579d3376ff3841a00b9f04e541b9d70cad7c"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.aarch64-unknown-freebsd.tar.gz"
 [[Xorg_libXdmcp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -33,7 +33,7 @@ os = "linux"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "0870d5fdef71eb65db355a76c55ddf668249d3cd8218c5676fee3f3a18d1b077"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.armv6l-linux-gnueabihf.tar.gz"
 [[Xorg_libXdmcp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -43,7 +43,7 @@ os = "linux"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "fa715377869e9d08a993b2ef0c6844de8f3fd01cfcb6df4dc40c8fd7622ea315"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.armv6l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.armv6l-linux-musleabihf.tar.gz"
 [[Xorg_libXdmcp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -53,7 +53,7 @@ os = "linux"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "442eed7b64f94ee67cb54d14c11164badff19ab1c49cac4d92457f8229362e6c"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.armv7l-linux-gnueabihf.tar.gz"
 [[Xorg_libXdmcp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -63,7 +63,7 @@ os = "linux"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "5c042b4cf7cadfa09bfbccd141c6a9de4997beeb13582e0271b958f1f60ac523"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.armv7l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.armv7l-linux-musleabihf.tar.gz"
 [[Xorg_libXdmcp]]
 arch = "i686"
 git-tree-sha1 = "48c46d69c57063cae342fe8ee2b6f9843289dec5"
@@ -72,7 +72,7 @@ os = "linux"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "07224e33f7156c95855ec0640757d817ec7d35ef76e271cc54aba58ef8994d0d"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.i686-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.i686-linux-gnu.tar.gz"
 [[Xorg_libXdmcp]]
 arch = "i686"
 git-tree-sha1 = "bf4390b18114f8fe4fab4ad5fd606cdd0454b6f7"
@@ -81,7 +81,7 @@ os = "linux"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "e964d2e9b9090131f82c3d1c67c5d03eaa9141ab6bd4fbf95043da037f81cf4c"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.i686-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.i686-linux-musl.tar.gz"
 [[Xorg_libXdmcp]]
 arch = "powerpc64le"
 git-tree-sha1 = "7240bc96675bc2df9b934d9854360ab7482833a0"
@@ -90,7 +90,16 @@ os = "linux"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "b91aca9728b91f7731ae7b7da3a4bb0cb3080bec8dd05f1e50523c08ea22ad59"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_libXdmcp]]
+arch = "riscv64"
+git-tree-sha1 = "a6d0a08d2e751ade4ee9378ca042f1a3819b6e36"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXdmcp.download]]
+    sha256 = "ebf0bd2175b9a2f49b99e38723ce743ec8613dff8e2228e7997304af684655a6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.riscv64-linux-gnu.tar.gz"
 [[Xorg_libXdmcp]]
 arch = "x86_64"
 git-tree-sha1 = "7ac675eff20f2e2781e828815d4fe9c06df0f0e3"
@@ -99,7 +108,7 @@ os = "linux"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "3b85b39238550e02e3605f8f85fb5a5bc0795b14dda77104d3488dbef47e63dd"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.x86_64-linux-gnu.tar.gz"
 [[Xorg_libXdmcp]]
 arch = "x86_64"
 git-tree-sha1 = "5fbb66f6c1dffd9bb53d0bb230b5f53ccd70f125"
@@ -108,7 +117,7 @@ os = "linux"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "7168dadcdbccec05cf9ff8b675bdcc5c91b73036604f8f5dd106d7b98964ca5b"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.x86_64-linux-musl.tar.gz"
 [[Xorg_libXdmcp]]
 arch = "x86_64"
 git-tree-sha1 = "bcc3486ec866d52cdf24fcb722e58270991873dc"
@@ -116,4 +125,4 @@ os = "freebsd"
 
     [[Xorg_libXdmcp.download]]
     sha256 = "e280b24a1e982b2233fb9d335dedff937c8e2ecf2c8d4ac964fa18bfbaeb3a6a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+1/Xorg_libXdmcp.v1.1.4.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdmcp_jll.jl/releases/download/Xorg_libXdmcp-v1.1.4+2/Xorg_libXdmcp.v1.1.4.x86_64-unknown-freebsd.tar.gz"
